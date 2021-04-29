@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+.z-font{
+    font-family: 'Syne Mono', monospace;
+}
+.z-text-or{
+    color: lightgrey !important;
+    font-family: 'Syne Mono', monospace;
+}
+.z-twitch-btn{
+    background-color: #9146FF!important;
+    border-color: #9146FF!important;
+}
+.z-addflex{
+    display: flex;
+}
+.z-center{
+    text-align: center!important;
+}
+.z-pad-right{
+    padding-right: 25px !important;
+}
+.z-pad-bot{
+    padding-bottom: 25px !important;
+}
+.z-gitlab{
+    background-color: orange!important;
+    border-color: orange!important;
+}
+.z-twitter{
+    background-color: #55ACEE!important;
+    border-color: #55ACEE!important;
+}
